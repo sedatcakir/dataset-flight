@@ -1,6 +1,6 @@
 [
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Danimarka",
     "Country EN": "Denmark",
     "Country DE": "Dänemark",
@@ -19,7 +19,7 @@
     "Airport Code": "AAL"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Fildişi Sahili",
     "Country EN": "Ivory Coast",
     "Country DE": "Elfenbeinküste",
@@ -38,7 +38,7 @@
     "Airport Code": "ABJ"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Birleşik Arap Emirlikleri",
     "Country EN": "United Arab Emirates",
     "Country DE": "Vereinigte Arabische Emirate",
@@ -57,7 +57,7 @@
     "Airport Code": "AUH"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Nijerya",
     "Country EN": "Nigeria",
     "Country DE": "Nigeria",
@@ -76,7 +76,7 @@
     "Airport Code": "ABV"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -95,7 +95,7 @@
     "Airport Code": "ADA"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Etiyopya",
     "Country EN": "Ethiopia",
     "Country DE": "Äthiopien",
@@ -114,7 +114,7 @@
     "Airport Code": "ADD"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Yemen",
     "Country EN": "Yemen",
     "Country DE": "Jemen",
@@ -133,7 +133,7 @@
     "Airport Code": "ADE"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -152,7 +152,7 @@
     "Airport Code": "ADF"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -171,7 +171,7 @@
     "Airport Code": "AFY"
   },
   {
-    "Kıta": "North America",
+    "Continent": "North America",
     "Country TR": "Porto Riko",
     "Country EN": "Puerto Rico",
     "Country DE": "Puerto Rico",
@@ -190,7 +190,7 @@
     "Airport Code": "BQN"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -209,7 +209,7 @@
     "Airport Code": "AJI"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Hindistan",
     "Country EN": "India",
     "Country DE": "Indien",
@@ -228,7 +228,7 @@
     "Airport Code": "AMD"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "İran",
     "Country EN": "Iranian",
     "Country DE": "iranisch",
@@ -247,7 +247,7 @@
     "Airport Code": "AWZ"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Ürdün",
     "Country EN": "Jordan",
     "Country DE": "Jordanien",
@@ -266,7 +266,7 @@
     "Airport Code": "AQJ"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Kazakistan",
     "Country EN": "Kazakhstan",
     "Country DE": "Kasachstan",
@@ -285,7 +285,7 @@
     "Airport Code": "SCO"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -304,7 +304,7 @@
     "Airport Code": "-"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Gana",
     "Country EN": "Ghana",
     "Country DE": "Ghana",
@@ -323,7 +323,7 @@
     "Airport Code": "ACC"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Kazakistan",
     "Country EN": "Kazakhstan",
     "Country DE": "Kasachstan",
@@ -342,7 +342,7 @@
     "Airport Code": "AKX"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -361,7 +361,7 @@
     "Airport Code": "GZP"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Kazakistan",
     "Country EN": "Kazakhstan",
     "Country DE": "Kasachstan",
@@ -380,7 +380,7 @@
     "Airport Code": "ALA"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -399,7 +399,7 @@
     "Airport Code": "MZH"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Ürdün",
     "Country EN": "Jordan",
     "Country DE": "Jordanien",
@@ -418,7 +418,7 @@
     "Airport Code": "AMM"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Hollanda",
     "Country EN": "Holland",
     "Country DE": "Holland",
@@ -437,7 +437,7 @@
     "Airport Code": "AMS"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -456,7 +456,7 @@
     "Airport Code": "ESB"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -475,7 +475,7 @@
     "Airport Code": "-"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -494,7 +494,7 @@
     "Airport Code": "AYT"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Madagaskar",
     "Country EN": "Madagascar",
     "Country DE": "Madagaskar",
@@ -513,7 +513,7 @@
     "Airport Code": "TNR"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Eritre",
     "Country EN": "Eritrea",
     "Country DE": "Eritrea",
@@ -532,7 +532,7 @@
     "Airport Code": "ASM"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Kazakistan",
     "Country EN": "Kazakhstan",
     "Country DE": "Kasachstan",
@@ -551,7 +551,7 @@
     "Airport Code": "NQZ"
   },
   {
-    "Kıta": "Russia",
+    "Continent": "Russia",
     "Country TR": "Rusya",
     "Country EN": "Russia",
     "Country DE": "Russland",
@@ -570,7 +570,7 @@
     "Airport Code": "ASF"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkmenistan",
     "Country EN": "Turkmenistan",
     "Country DE": "Turkmenistan",
@@ -589,7 +589,7 @@
     "Airport Code": "ASB"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Yunanistan",
     "Country EN": "Greece",
     "Country DE": "Griechenland",
@@ -608,7 +608,7 @@
     "Airport Code": "ATH"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Yunanistan",
     "Country EN": "Greece",
     "Country DE": "Griechenland",
@@ -627,7 +627,7 @@
     "Airport Code": "ATH"
   },
   {
-    "Kıta": "North America",
+    "Continent": "North America",
     "Country TR": "ABD",
     "Country EN": "USA",
     "Country DE": "USA",
@@ -646,7 +646,7 @@
     "Airport Code": "ATL"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -665,7 +665,7 @@
     "Airport Code": "CII"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Irak",
     "Country EN": "Iraq",
     "Country DE": "Irak",
@@ -684,7 +684,7 @@
     "Airport Code": "BGW"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Bahreyn",
     "Country EN": "bahrain",
     "Country DE": "Bahrain",
@@ -703,7 +703,7 @@
     "Airport Code": "BAH"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Azerbaycan",
     "Country EN": "Azerbaijan",
     "Country DE": "Aserbaidschan",
@@ -722,7 +722,7 @@
     "Airport Code": "GYD"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -741,7 +741,7 @@
     "Airport Code": "BZI"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Mali",
     "Country EN": "Financial",
     "Country DE": "Finanziell",
@@ -760,7 +760,7 @@
     "Airport Code": "BKO"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -779,7 +779,7 @@
     "Airport Code": "BDM"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Hindistan",
     "Country EN": "India",
     "Country DE": "Indien",
@@ -798,7 +798,7 @@
     "Airport Code": "BLR"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Tayland",
     "Country EN": "Thailand",
     "Country DE": "Thailand",
@@ -817,7 +817,7 @@
     "Airport Code": "BKK"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Gambiya",
     "Country EN": "Gambia",
     "Country DE": "Gambia",
@@ -836,7 +836,7 @@
     "Airport Code": "BJL"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "İtalya",
     "Country EN": "Italy",
     "Country DE": "Italien",
@@ -855,7 +855,7 @@
     "Airport Code": "BRI"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "İspanya",
     "Country EN": "Spain",
     "Country DE": "Spanien",
@@ -874,7 +874,7 @@
     "Airport Code": "BCN"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "İsviçre",
     "Country EN": "Switzerland",
     "Country DE": "Schweiz",
@@ -893,7 +893,7 @@
     "Airport Code": "BSL"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Irak",
     "Country EN": "Iraq",
     "Country DE": "Irak",
@@ -912,7 +912,7 @@
     "Airport Code": "BSR"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -931,7 +931,7 @@
     "Airport Code": "BAL"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Cezayir",
     "Country EN": "Algeria",
     "Country DE": "Algerien",
@@ -950,7 +950,7 @@
     "Airport Code": "BLJ"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Gürcistan",
     "Country EN": "Georgia",
     "Country DE": "Georgia",
@@ -969,7 +969,7 @@
     "Airport Code": "BUS"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Sırbistan",
     "Country EN": "Serbia",
     "Country DE": "Serbien",
@@ -988,7 +988,7 @@
     "Airport Code": "BEG"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "İtalya",
     "Country EN": "Italy",
     "Country DE": "Italien",
@@ -1007,7 +1007,7 @@
     "Airport Code": "BGY"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Almanya",
     "Country EN": "Germany",
     "Country DE": "Deutschland",
@@ -1026,7 +1026,7 @@
     "Airport Code": "BER"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Almanya",
     "Country EN": "Germany",
     "Country DE": "Deutschland",
@@ -1045,7 +1045,7 @@
     "Airport Code": "SXF"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Almanya",
     "Country EN": "Germany",
     "Country DE": "Deutschland",
@@ -1064,7 +1064,7 @@
     "Airport Code": "TXL"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Lübnan",
     "Country EN": "Lebanon",
     "Country DE": "Libanon",
@@ -1083,7 +1083,7 @@
     "Airport Code": "BEY"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "İspanya",
     "Country EN": "Spain",
     "Country DE": "Spanien",
@@ -1102,7 +1102,7 @@
     "Airport Code": "BIO"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Danimarka",
     "Country EN": "Denmark",
     "Country DE": "Dänemark",
@@ -1121,7 +1121,7 @@
     "Airport Code": "BLL"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Libya",
     "Country EN": "Libya",
     "Country DE": "Libyen",
@@ -1140,7 +1140,7 @@
     "Airport Code": "BEN"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -1159,7 +1159,7 @@
     "Airport Code": "BGG"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Birleşik Krallık",
     "Country EN": "United Kingdom",
     "Country DE": "Vereinigtes Königreich",
@@ -1178,7 +1178,7 @@
     "Airport Code": "BHX"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Kırgızistan",
     "Country EN": "Kyrgyzstan",
     "Country DE": "Kirgisistan",
@@ -1197,7 +1197,7 @@
     "Airport Code": "FRU"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -1216,7 +1216,7 @@
     "Airport Code": "BJV"
   },
   {
-    "Kıta": "South America",
+    "Continent": "South America",
     "Country TR": "Kolombiya",
     "Country EN": "Colombia",
     "Country DE": "Kolumbien",
@@ -1235,7 +1235,7 @@
     "Airport Code": "BOG"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "İtalya",
     "Country EN": "Italy",
     "Country DE": "Italien",
@@ -1254,7 +1254,7 @@
     "Airport Code": "BLQ"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Fransa",
     "Country EN": "France",
     "Country DE": "Frankreich",
@@ -1273,7 +1273,7 @@
     "Airport Code": "BOD"
   },
   {
-    "Kıta": "North America",
+    "Continent": "North America",
     "Country TR": "ABD",
     "Country EN": "USA",
     "Country DE": "USA",
@@ -1292,7 +1292,7 @@
     "Airport Code": "BOS"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Almanya",
     "Country EN": "Germany",
     "Country DE": "Deutschland",
@@ -1311,7 +1311,7 @@
     "Airport Code": "BRE"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Belçika",
     "Country EN": "Belgium",
     "Country DE": "Belgien",
@@ -1330,7 +1330,7 @@
     "Airport Code": "BRU"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Macaristan",
     "Country EN": "Hungary",
     "Country DE": "Ungarn",
@@ -1349,7 +1349,7 @@
     "Airport Code": "BUD"
   },
   {
-    "Kıta": "South America",
+    "Continent": "South America",
     "Country TR": "Arjantin",
     "Country EN": "Argentina",
     "Country DE": "Argentinien",
@@ -1368,7 +1368,7 @@
     "Airport Code": "EZE"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Özbekistan",
     "Country EN": "Uzbekistan",
     "Country DE": "Usbekistan",
@@ -1387,7 +1387,7 @@
     "Airport Code": "BHK"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -1406,7 +1406,7 @@
     "Airport Code": "YEI"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -1425,7 +1425,7 @@
     "Airport Code": "BTZ"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Romanya",
     "Country EN": "Romania",
     "Country DE": "Rumänien",
@@ -1444,7 +1444,7 @@
     "Airport Code": "OTP"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Endonezya",
     "Country EN": "Indonesia",
     "Country DE": "Indonesien",
@@ -1463,7 +1463,7 @@
     "Airport Code": "CGK"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Güney Afrika",
     "Country EN": "South Africa",
     "Country DE": "Südafrika",
@@ -1482,7 +1482,7 @@
     "Airport Code": "CPT"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "İsviçre",
     "Country EN": "Switzerland",
     "Country DE": "Schweiz",
@@ -1501,7 +1501,7 @@
     "Airport Code": "GVA"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "İtalya",
     "Country EN": "Italy",
     "Country DE": "Italien",
@@ -1520,7 +1520,7 @@
     "Airport Code": "GOA"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Cezayir",
     "Country EN": "Algeria",
     "Country DE": "Algerien",
@@ -1539,7 +1539,7 @@
     "Airport Code": "ALG"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Cibuti",
     "Country EN": "Djibouti",
     "Country DE": "Dschibuti",
@@ -1558,7 +1558,7 @@
     "Airport Code": "JIB"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Suudi Arabistan",
     "Country EN": "Saudi Arabia",
     "Country DE": "Saudi-Arabien",
@@ -1577,7 +1577,7 @@
     "Airport Code": "JED"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Güney Sudan",
     "Country EN": "South Sudan",
     "Country DE": "Südsudan",
@@ -1596,7 +1596,7 @@
     "Airport Code": "JUB"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -1615,7 +1615,7 @@
     "Airport Code": "CKZ"
   },
   {
-    "Kıta": "Russia",
+    "Continent": "Russia",
     "Country TR": "Rusya",
     "Country EN": "Russia",
     "Country DE": "Russland",
@@ -1634,7 +1634,7 @@
     "Airport Code": "CEK"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Çin",
     "Country EN": "Chinese",
     "Country DE": "chinesisch",
@@ -1653,7 +1653,7 @@
     "Airport Code": "CGO"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Hindistan",
     "Country EN": "India",
     "Country DE": "Indien",
@@ -1672,7 +1672,7 @@
     "Airport Code": "MAA"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Senegal",
     "Country EN": "Senegal",
     "Country DE": "Senegal",
@@ -1691,7 +1691,7 @@
     "Airport Code": "DSS"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Senegal",
     "Country EN": "Senegal",
     "Country DE": "Senegal",
@@ -1710,7 +1710,7 @@
     "Airport Code": "DKR"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Bangladeş",
     "Country EN": "Bangladesh",
     "Country DE": "Bangladesch",
@@ -1729,7 +1729,7 @@
     "Airport Code": "DAC"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -1748,7 +1748,7 @@
     "Airport Code": "DLM"
   },
   {
-    "Kıta": "North America",
+    "Continent": "North America",
     "Country TR": "ABD",
     "Country EN": "USA",
     "Country DE": "USA",
@@ -1767,7 +1767,7 @@
     "Airport Code": "DFW"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Suudi Arabistan",
     "Country EN": "Saudi Arabia",
     "Country DE": "Saudi-Arabien",
@@ -1786,7 +1786,7 @@
     "Airport Code": "DMM"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Tanzanya",
     "Country EN": "Tanzania",
     "Country DE": "Tansania",
@@ -1805,7 +1805,7 @@
     "Airport Code": "DAR"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Hindistan",
     "Country EN": "India",
     "Country DE": "Indien",
@@ -1824,7 +1824,7 @@
     "Airport Code": "DEL"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -1843,7 +1843,7 @@
     "Airport Code": "DNZ"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Endonezya",
     "Country EN": "Indonesia",
     "Country DE": "Indonesien",
@@ -1862,7 +1862,7 @@
     "Airport Code": "DPS"
   },
   {
-    "Kıta": "North America",
+    "Continent": "North America",
     "Country TR": "ABD",
     "Country EN": "USA",
     "Country DE": "USA",
@@ -1881,7 +1881,7 @@
     "Airport Code": "DTW"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Ukrayna",
     "Country EN": "Ukrainian",
     "Country DE": "ukrainisch",
@@ -1900,7 +1900,7 @@
     "Airport Code": "DNK"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -1919,7 +1919,7 @@
     "Airport Code": "DIY"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Katar",
     "Country EN": "Train",
     "Country DE": "Zug",
@@ -1938,7 +1938,7 @@
     "Airport Code": "DIA"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Katar",
     "Country EN": "Train",
     "Country DE": "Zug",
@@ -1957,7 +1957,7 @@
     "Airport Code": "DOH"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Ukrayna",
     "Country EN": "Ukrainian",
     "Country DE": "ukrainisch",
@@ -1976,7 +1976,7 @@
     "Airport Code": "DOK"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Kamerun",
     "Country EN": "Cameroon",
     "Country DE": "Kamerun",
@@ -1995,7 +1995,7 @@
     "Airport Code": "DLA"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Birleşik Arap Emirlikleri",
     "Country EN": "United Arab Emirates",
     "Country DE": "Vereinigte Arabische Emirate",
@@ -2014,7 +2014,7 @@
     "Airport Code": "DXB"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Birleşik Arap Emirlikleri",
     "Country EN": "United Arab Emirates",
     "Country DE": "Vereinigte Arabische Emirate",
@@ -2033,7 +2033,7 @@
     "Airport Code": "DWC"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "İrlanda",
     "Country EN": "Ireland",
     "Country DE": "Irland",
@@ -2052,7 +2052,7 @@
     "Airport Code": "DUB"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Hırvatistan",
     "Country EN": "Croatia",
     "Country DE": "Kroatien",
@@ -2071,7 +2071,7 @@
     "Airport Code": "DBV"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Güney Afrika",
     "Country EN": "South Africa",
     "Country DE": "Südafrika",
@@ -2090,7 +2090,7 @@
     "Airport Code": "DUR"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Tacikistan",
     "Country EN": "Tajikistan",
     "Country DE": "Tadschikistan",
@@ -2109,7 +2109,7 @@
     "Airport Code": "DYU"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Almanya",
     "Country EN": "Germany",
     "Country DE": "Deutschland",
@@ -2128,7 +2128,7 @@
     "Airport Code": "DUS"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Birleşik Krallık",
     "Country EN": "United Kingdom",
     "Country DE": "Vereinigtes Königreich",
@@ -2147,7 +2147,7 @@
     "Airport Code": "EDI"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -2166,7 +2166,7 @@
     "Airport Code": "EDO"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -2185,7 +2185,7 @@
     "Airport Code": "EZS"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Çad",
     "Country EN": "Chad",
     "Country DE": "Tschad",
@@ -2204,7 +2204,7 @@
     "Airport Code": "NDJ"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Uganda",
     "Country EN": "Uganda",
     "Country DE": "Uganda",
@@ -2223,7 +2223,7 @@
     "Airport Code": "EBB"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Irak",
     "Country EN": "Iraq",
     "Country DE": "Irak",
@@ -2242,7 +2242,7 @@
     "Airport Code": "EBL"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -2261,7 +2261,7 @@
     "Airport Code": "ERC"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -2280,7 +2280,7 @@
     "Airport Code": "ERZ"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -2299,7 +2299,7 @@
     "Airport Code": "AOU"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Özbekistan",
     "Country EN": "Uzbekistan",
     "Country DE": "Usbekistan",
@@ -2318,7 +2318,7 @@
     "Airport Code": "FEG"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Almanya",
     "Country EN": "Germany",
     "Country DE": "Deutschland",
@@ -2337,7 +2337,7 @@
     "Airport Code": "FRA"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Almanya",
     "Country EN": "Germany",
     "Country DE": "Deutschland",
@@ -2356,7 +2356,7 @@
     "Airport Code": "FDH"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Sierra Leone",
     "Country EN": "Sierra Leone",
     "Country DE": "Sierra Leone",
@@ -2375,7 +2375,7 @@
     "Airport Code": "FNA"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -2394,7 +2394,7 @@
     "Airport Code": "GZT"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Kuzey Kıbrıs",
     "Country EN": "Northern Cyprus",
     "Country DE": "Nordzypern",
@@ -2413,7 +2413,7 @@
     "Airport Code": "GEC"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Azerbaycan",
     "Country EN": "Azerbaijan",
     "Country DE": "Aserbaidschan",
@@ -2432,7 +2432,7 @@
     "Airport Code": "KVD"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "İsveç",
     "Country EN": "Swedish",
     "Country DE": "Schwedisch",
@@ -2451,7 +2451,7 @@
     "Airport Code": "GOT"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Avusturya",
     "Country EN": "Austria",
     "Country DE": "Österreich",
@@ -2470,7 +2470,7 @@
     "Airport Code": "GRZ"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Çin",
     "Country EN": "Chinese",
     "Country DE": "chinesisch",
@@ -2489,7 +2489,7 @@
     "Airport Code": "CAN"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -2508,7 +2508,7 @@
     "Airport Code": "YKO"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Suriye",
     "Country EN": "Syria",
     "Country DE": "Syrien",
@@ -2527,7 +2527,7 @@
     "Airport Code": "ALP"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Almanya",
     "Country EN": "Germany",
     "Country DE": "Deutschland",
@@ -2546,7 +2546,7 @@
     "Airport Code": "HAM"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Almanya",
     "Country EN": "Germany",
     "Country DE": "Deutschland",
@@ -2565,7 +2565,7 @@
     "Airport Code": "HAJ"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Vietnam",
     "Country EN": "Vietnamese",
     "Country DE": "Vietnamesisch",
@@ -2584,7 +2584,7 @@
     "Airport Code": "HAN"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Ukrayna",
     "Country EN": "Ukrainian",
     "Country DE": "ukrainisch",
@@ -2603,7 +2603,7 @@
     "Airport Code": "HRK"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Sudan",
     "Country EN": "Sudan",
     "Country DE": "Sudan",
@@ -2622,7 +2622,7 @@
     "Airport Code": "KRT"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -2641,7 +2641,7 @@
     "Airport Code": "HTY"
   },
   {
-    "Kıta": "South America",
+    "Continent": "South America",
     "Country TR": "Küba",
     "Country EN": "Cuba",
     "Country DE": "Kuba",
@@ -2660,7 +2660,7 @@
     "Airport Code": "HAV"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Hindistan",
     "Country EN": "India",
     "Country DE": "Indien",
@@ -2679,7 +2679,7 @@
     "Airport Code": "HYD"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Finlandiya",
     "Country EN": "Finland",
     "Country DE": "Finnland",
@@ -2698,7 +2698,7 @@
     "Airport Code": "HEL"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Ukrayna",
     "Country EN": "Ukrainian",
     "Country DE": "ukrainisch",
@@ -2717,7 +2717,7 @@
     "Airport Code": "KHE"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Vietnam",
     "Country EN": "Vietnamese",
     "Country DE": "Vietnamesisch",
@@ -2736,7 +2736,7 @@
     "Airport Code": "SGN"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Hong Kong",
     "Country EN": "Hong Kong",
     "Country DE": "Hongkong",
@@ -2755,7 +2755,7 @@
     "Airport Code": "HKG"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Tacikistan",
     "Country EN": "Tajikistan",
     "Country DE": "Tadschikistan",
@@ -2774,7 +2774,7 @@
     "Airport Code": "LBD"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Mısır",
     "Country EN": "Sweetcorn",
     "Country DE": "Zuckermais",
@@ -2793,7 +2793,7 @@
     "Airport Code": "HRG"
   },
   {
-    "Kıta": "North America",
+    "Continent": "North America",
     "Country TR": "ABD",
     "Country EN": "USA",
     "Country DE": "USA",
@@ -2812,7 +2812,7 @@
     "Airport Code": "IAH"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -2831,7 +2831,7 @@
     "Airport Code": "IGD"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -2850,7 +2850,7 @@
     "Airport Code": "ISE"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "İran",
     "Country EN": "Iranian",
     "Country DE": "iranisch",
@@ -2869,7 +2869,7 @@
     "Airport Code": "IFN"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Mısır",
     "Country EN": "Sweetcorn",
     "Country DE": "Zuckermais",
@@ -2888,7 +2888,7 @@
     "Airport Code": "HBE"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -2907,7 +2907,7 @@
     "Airport Code": "ISK"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Pakistan",
     "Country EN": "Pakistan",
     "Country DE": "Pakistan",
@@ -2926,7 +2926,7 @@
     "Airport Code": "ISB"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Pakistan",
     "Country EN": "Pakistan",
     "Country DE": "Pakistan",
@@ -2945,7 +2945,7 @@
     "Airport Code": "ISB"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -2964,7 +2964,7 @@
     "Airport Code": "IST"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -2983,7 +2983,7 @@
     "Airport Code": "ISL"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -3002,7 +3002,7 @@
     "Airport Code": "SAW"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Ukrayna",
     "Country EN": "Ukrainian",
     "Country DE": "ukrainisch",
@@ -3021,7 +3021,7 @@
     "Airport Code": "IFO"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -3040,7 +3040,7 @@
     "Airport Code": "ADB"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -3059,7 +3059,7 @@
     "Airport Code": "IGL"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Güney Afrika",
     "Country EN": "South Africa",
     "Country DE": "Südafrika",
@@ -3078,7 +3078,7 @@
     "Airport Code": "JNB"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Afganistan",
     "Country EN": "Afghanistan",
     "Country DE": "Afghanistan",
@@ -3097,7 +3097,7 @@
     "Airport Code": "KBL"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Mısır",
     "Country EN": "Sweetcorn",
     "Country DE": "Zuckermais",
@@ -3116,7 +3116,7 @@
     "Airport Code": "CAI"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -3135,7 +3135,7 @@
     "Airport Code": "KCM"
   },
   {
-    "Kıta": "Russia",
+    "Continent": "Russia",
     "Country TR": "Rusya",
     "Country EN": "Russia",
     "Country DE": "Russland",
@@ -3154,7 +3154,7 @@
     "Airport Code": "KGD"
   },
   {
-    "Kıta": "South America",
+    "Continent": "South America",
     "Country TR": "Brezilya",
     "Country EN": "Brazil",
     "Country DE": "Brasilien",
@@ -3173,7 +3173,7 @@
     "Airport Code": "VCP"
   },
   {
-    "Kıta": "North America",
+    "Continent": "North America",
     "Country TR": "Meksika",
     "Country EN": "Mexican",
     "Country DE": "Mexikaner",
@@ -3192,7 +3192,7 @@
     "Airport Code": "CUN"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Nijerya",
     "Country EN": "Nigeria",
     "Country DE": "Nigeria",
@@ -3211,7 +3211,7 @@
     "Airport Code": "KAN"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Pakistan",
     "Country EN": "Pakistan",
     "Country DE": "Pakistan",
@@ -3230,7 +3230,7 @@
     "Airport Code": "KHI"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Kazakistan",
     "Country EN": "Kazakhstan",
     "Country DE": "Kasachstan",
@@ -3249,7 +3249,7 @@
     "Airport Code": "KGF"
   },
   {
-    "Kıta": "South America",
+    "Continent": "South America",
     "Country TR": "Venezuela",
     "Country EN": "Venezuelan",
     "Country DE": "venezolanisch",
@@ -3268,7 +3268,7 @@
     "Airport Code": "CCS"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Almanya",
     "Country EN": "Germany",
     "Country DE": "Deutschland",
@@ -3287,7 +3287,7 @@
     "Airport Code": "FKB"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -3306,7 +3306,7 @@
     "Airport Code": "KSY"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Suudi Arabistan",
     "Country EN": "Saudi Arabia",
     "Country DE": "Saudi-Arabien",
@@ -3325,7 +3325,7 @@
     "Airport Code": "ELQ"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -3344,7 +3344,7 @@
     "Airport Code": "KFS"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "İtalya",
     "Country EN": "Italy",
     "Country DE": "Italien",
@@ -3363,7 +3363,7 @@
     "Airport Code": "CTA"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Nepal",
     "Country EN": "Nepal",
     "Country DE": "Nepal",
@@ -3382,7 +3382,7 @@
     "Airport Code": "KTM"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Litvanya",
     "Country EN": "Lithuanian",
     "Country DE": "litauisch",
@@ -3401,7 +3401,7 @@
     "Airport Code": "KUN"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -3420,7 +3420,7 @@
     "Airport Code": "ASR"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Fas",
     "Country EN": "Morocco",
     "Country DE": "Marokko",
@@ -3439,7 +3439,7 @@
     "Airport Code": "CMN"
   },
   {
-    "Kıta": "Russia",
+    "Continent": "Russia",
     "Country TR": "Rusya",
     "Country EN": "Russia",
     "Country DE": "Russland",
@@ -3458,7 +3458,7 @@
     "Airport Code": "KZN"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Irak",
     "Country EN": "Iraq",
     "Country DE": "Irak",
@@ -3477,7 +3477,7 @@
     "Airport Code": "KIK"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Ukrayna",
     "Country EN": "Ukrainian",
     "Country DE": "ukrainisch",
@@ -3496,7 +3496,7 @@
     "Airport Code": "KBP"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Ruanda",
     "Country EN": "rwanda",
     "Country DE": "Ruanda",
@@ -3515,7 +3515,7 @@
     "Airport Code": "KGL"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Tanzanya",
     "Country EN": "Tanzania",
     "Country DE": "Tansania",
@@ -3534,7 +3534,7 @@
     "Airport Code": "JRO"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Kongo DC",
     "Country EN": "Congo DC",
     "Country DE": "Kongo DC",
@@ -3553,7 +3553,7 @@
     "Airport Code": "FIH"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "İran",
     "Country EN": "Iranian",
     "Country DE": "iranisch",
@@ -3572,7 +3572,7 @@
     "Airport Code": "KSH"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Moldova",
     "Country EN": "moldova",
     "Country DE": "Moldawien",
@@ -3591,7 +3591,7 @@
     "Airport Code": "KIV"
   },
   {
-    "Kıta": "South America",
+    "Continent": "South America",
     "Country TR": "Ekvador",
     "Country EN": "Ecuador",
     "Country DE": "Ecuador",
@@ -3610,7 +3610,7 @@
     "Airport Code": "UIO"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Romanya",
     "Country EN": "Romania",
     "Country DE": "Rumänien",
@@ -3629,7 +3629,7 @@
     "Airport Code": "CLJ"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -3648,7 +3648,7 @@
     "Airport Code": "KCO"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Sri Lanka",
     "Country EN": "Sri Lanka",
     "Country DE": "Sri Lanka",
@@ -3667,7 +3667,7 @@
     "Airport Code": "CMB"
   },
   {
-    "Kıta": "North America",
+    "Continent": "North America",
     "Country TR": "ABD",
     "Country EN": "USA",
     "Country DE": "USA",
@@ -3686,7 +3686,7 @@
     "Airport Code": "LCK"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Gine",
     "Country EN": "Guinea",
     "Country DE": "Guinea",
@@ -3705,7 +3705,7 @@
     "Airport Code": "CKY"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Cezayir",
     "Country EN": "Algeria",
     "Country DE": "Algerien",
@@ -3724,7 +3724,7 @@
     "Airport Code": "CZL"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -3743,7 +3743,7 @@
     "Airport Code": "KYA"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Danimarka",
     "Country EN": "Denmark",
     "Country DE": "Dänemark",
@@ -3762,7 +3762,7 @@
     "Airport Code": "CPH"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Benin",
     "Country EN": "Benin",
     "Country DE": "Benin",
@@ -3781,7 +3781,7 @@
     "Airport Code": "COO"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Almanya",
     "Country EN": "Germany",
     "Country DE": "Deutschland",
@@ -3800,7 +3800,7 @@
     "Airport Code": "CGN"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Romanya",
     "Country EN": "Romania",
     "Country DE": "Rumänien",
@@ -3819,7 +3819,7 @@
     "Airport Code": "CND"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Slovakya",
     "Country EN": "Slovakia",
     "Country DE": "Slowakei",
@@ -3838,7 +3838,7 @@
     "Airport Code": "KSC"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Polonya",
     "Country EN": "Poland",
     "Country DE": "Polen",
@@ -3857,7 +3857,7 @@
     "Airport Code": "KRK"
   },
   {
-    "Kıta": "Russia",
+    "Continent": "Russia",
     "Country TR": "Rusya",
     "Country EN": "Russia",
     "Country DE": "Russland",
@@ -3876,7 +3876,7 @@
     "Airport Code": "KRR"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Malezya",
     "Country EN": "Malaysia",
     "Country DE": "Malaysia",
@@ -3895,7 +3895,7 @@
     "Airport Code": "KUL"
   },
   {
-    "Kıta": "North America",
+    "Continent": "North America",
     "Country TR": "Kurasao",
     "Country EN": "Curacao",
     "Country DE": "Curaçao",
@@ -3914,7 +3914,7 @@
     "Airport Code": "CUR"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Kuveyt",
     "Country EN": "Kuwait",
     "Country DE": "Kuwait",
@@ -3933,7 +3933,7 @@
     "Airport Code": "KWI"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -3952,7 +3952,7 @@
     "Airport Code": "KZR"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -3971,7 +3971,7 @@
     "Airport Code": "-"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Nijerya",
     "Country EN": "Nigeria",
     "Country DE": "Nigeria",
@@ -3990,7 +3990,7 @@
     "Airport Code": "LOS"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Pakistan",
     "Country EN": "Pakistan",
     "Country DE": "Pakistan",
@@ -4009,7 +4009,7 @@
     "Airport Code": "LHE"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Kıbrıs",
     "Country EN": "Cyprus",
     "Country DE": "Zypern",
@@ -4028,7 +4028,7 @@
     "Airport Code": "NIC"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Kuzey Kıbrıs",
     "Country EN": "Northern Cyprus",
     "Country DE": "Nordzypern",
@@ -4047,7 +4047,7 @@
     "Airport Code": "ECN"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Almanya",
     "Country EN": "Germany",
     "Country DE": "Deutschland",
@@ -4066,7 +4066,7 @@
     "Airport Code": "LEJ"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Gabon",
     "Country EN": "Gabon",
     "Country DE": "Gabun",
@@ -4085,7 +4085,7 @@
     "Airport Code": "LBV"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Avusturya",
     "Country EN": "Austria",
     "Country DE": "Österreich",
@@ -4104,7 +4104,7 @@
     "Airport Code": "LNZ"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Ukrayna",
     "Country EN": "Ukrainian",
     "Country DE": "ukrainisch",
@@ -4123,7 +4123,7 @@
     "Airport Code": "LWO"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Belçika",
     "Country EN": "Belgium",
     "Country DE": "Belgien",
@@ -4142,7 +4142,7 @@
     "Airport Code": "LGG"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Fransa",
     "Country EN": "France",
     "Country DE": "Frankreich",
@@ -4161,7 +4161,7 @@
     "Airport Code": "LYS"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Portekiz",
     "Country EN": "Portugal",
     "Country DE": "Portugal",
@@ -4180,7 +4180,7 @@
     "Airport Code": "LIS"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Birleşik Krallık",
     "Country EN": "United Kingdom",
     "Country DE": "Vereinigtes Königreich",
@@ -4199,7 +4199,7 @@
     "Airport Code": "LGW"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Birleşik Krallık",
     "Country EN": "United Kingdom",
     "Country DE": "Vereinigtes Königreich",
@@ -4218,7 +4218,7 @@
     "Airport Code": "LHR"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Birleşik Krallık",
     "Country EN": "United Kingdom",
     "Country DE": "Vereinigtes Königreich",
@@ -4237,7 +4237,7 @@
     "Airport Code": "LTN"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Birleşik Krallık",
     "Country EN": "United Kingdom",
     "Country DE": "Vereinigtes Königreich",
@@ -4256,7 +4256,7 @@
     "Airport Code": "STN"
   },
   {
-    "Kıta": "North America",
+    "Continent": "North America",
     "Country TR": "ABD",
     "Country EN": "USA",
     "Country DE": "USA",
@@ -4275,7 +4275,7 @@
     "Airport Code": "LAX"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Angola",
     "Country EN": "Angola",
     "Country DE": "Angola",
@@ -4294,7 +4294,7 @@
     "Airport Code": "LAD"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Mısır",
     "Country EN": "Sweetcorn",
     "Country DE": "Zuckermais",
@@ -4313,7 +4313,7 @@
     "Airport Code": "LXR"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Zambiya",
     "Country EN": "Zambia",
     "Country DE": "Sambia",
@@ -4332,7 +4332,7 @@
     "Airport Code": "LUN"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Slovenya",
     "Country EN": "Slovenia",
     "Country DE": "Slowenien",
@@ -4351,7 +4351,7 @@
     "Airport Code": "LJU"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Lüksemburg",
     "Country EN": "Luxembourg",
     "Country DE": "Luxemburg",
@@ -4370,7 +4370,7 @@
     "Airport Code": "LUX"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Hollanda",
     "Country EN": "Holland",
     "Country DE": "Holland",
@@ -4389,7 +4389,7 @@
     "Airport Code": "MST"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "İspanya",
     "Country EN": "Spain",
     "Country DE": "Spanien",
@@ -4408,7 +4408,7 @@
     "Airport Code": "MAD"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Seyşeller",
     "Country EN": "Seychelles",
     "Country DE": "Seychellen",
@@ -4427,7 +4427,7 @@
     "Airport Code": "SEZ"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Mauritius (Moris)",
     "Country EN": "Mauritius (Moris)",
     "Country DE": "Mauritius (Moris)",
@@ -4446,7 +4446,7 @@
     "Airport Code": "MRU"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Makao",
     "Country EN": "Macau",
     "Country DE": "Macau",
@@ -4465,7 +4465,7 @@
     "Airport Code": "MFM"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Ekvator Ginesi",
     "Country EN": "Equatorial Guinea",
     "Country DE": "Äquatorialguinea",
@@ -4484,7 +4484,7 @@
     "Airport Code": "SSG"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "İspanya",
     "Country EN": "Spain",
     "Country DE": "Spanien",
@@ -4503,7 +4503,7 @@
     "Airport Code": "AGP"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -4522,7 +4522,7 @@
     "Airport Code": "MLX"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Maldivler",
     "Country EN": "maldives",
     "Country DE": "Malediven",
@@ -4541,7 +4541,7 @@
     "Airport Code": "MLE"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Malta",
     "Country EN": "Malta",
     "Country DE": "Malta",
@@ -4560,7 +4560,7 @@
     "Airport Code": "MLA"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Birleşik Krallık",
     "Country EN": "United Kingdom",
     "Country DE": "Vereinigtes Königreich",
@@ -4579,7 +4579,7 @@
     "Airport Code": "MAN"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Filipinler",
     "Country EN": "Philippines",
     "Country DE": "Philippinen",
@@ -4598,7 +4598,7 @@
     "Airport Code": "MNL"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Mozambik",
     "Country EN": "mozambique",
     "Country DE": "Mosambik",
@@ -4617,7 +4617,7 @@
     "Airport Code": "MPM"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Fas",
     "Country EN": "Morocco",
     "Country DE": "Marokko",
@@ -4636,7 +4636,7 @@
     "Airport Code": "RAK"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -4655,7 +4655,7 @@
     "Airport Code": "MQM"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Slovenya",
     "Country EN": "Slovenia",
     "Country DE": "Slowenien",
@@ -4674,7 +4674,7 @@
     "Airport Code": "MBX"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Fransa",
     "Country EN": "France",
     "Country DE": "Frankreich",
@@ -4693,7 +4693,7 @@
     "Airport Code": "MRS"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Suudi Arabistan",
     "Country EN": "Saudi Arabia",
     "Country DE": "Saudi-Arabien",
@@ -4712,7 +4712,7 @@
     "Airport Code": "MED"
   },
   {
-    "Kıta": "North America",
+    "Continent": "North America",
     "Country TR": "Meksika",
     "Country EN": "Mexican",
     "Country DE": "Mexikaner",
@@ -4731,7 +4731,7 @@
     "Airport Code": "MEX"
   },
   {
-    "Kıta": "North America",
+    "Continent": "North America",
     "Country TR": "Meksika",
     "Country EN": "Mexican",
     "Country DE": "Mexikaner",
@@ -4750,7 +4750,7 @@
     "Airport Code": "NLU"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "İran",
     "Country EN": "Iranian",
     "Country DE": "iranisch",
@@ -4769,7 +4769,7 @@
     "Airport Code": "MHD"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Afganistan",
     "Country EN": "Afghanistan",
     "Country DE": "Afghanistan",
@@ -4788,7 +4788,7 @@
     "Airport Code": "MZR"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Ukrayna",
     "Country EN": "Ukrainian",
     "Country DE": "ukrainisch",
@@ -4807,7 +4807,7 @@
     "Airport Code": "NLV"
   },
   {
-    "Kıta": "North America",
+    "Continent": "North America",
     "Country TR": "ABD",
     "Country EN": "USA",
     "Country DE": "USA",
@@ -4826,7 +4826,7 @@
     "Airport Code": "MIA"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "İtalya",
     "Country EN": "Italy",
     "Country DE": "Italien",
@@ -4845,7 +4845,7 @@
     "Airport Code": "LIN"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "İtalya",
     "Country EN": "Italy",
     "Country DE": "Italien",
@@ -4864,7 +4864,7 @@
     "Airport Code": "MXP"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Belarus",
     "Country EN": "Belarus",
     "Country DE": "Weißrussland",
@@ -4883,7 +4883,7 @@
     "Airport Code": "MSQ"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Libya",
     "Country EN": "Libya",
     "Country DE": "Libyen",
@@ -4902,7 +4902,7 @@
     "Airport Code": "MRA"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Somali",
     "Country EN": "Somalia",
     "Country DE": "Somalia",
@@ -4921,7 +4921,7 @@
     "Airport Code": "MGQ"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Kenya",
     "Country EN": "Kenya",
     "Country DE": "Kenia",
@@ -4940,7 +4940,7 @@
     "Airport Code": "MBA"
   },
   {
-    "Kıta": "North America",
+    "Continent": "North America",
     "Country TR": "Kanada",
     "Country EN": "Canada",
     "Country DE": "Kanada",
@@ -4959,7 +4959,7 @@
     "Airport Code": "YUL"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Komorlar",
     "Country EN": "Comoros",
     "Country DE": "Komoren",
@@ -4978,7 +4978,7 @@
     "Airport Code": "HAH"
   },
   {
-    "Kıta": "Russia",
+    "Continent": "Russia",
     "Country TR": "Rusya",
     "Country EN": "Russia",
     "Country DE": "Russland",
@@ -4997,7 +4997,7 @@
     "Airport Code": "DME"
   },
   {
-    "Kıta": "Russia",
+    "Continent": "Russia",
     "Country TR": "Rusya",
     "Country EN": "Russia",
     "Country DE": "Russland",
@@ -5016,7 +5016,7 @@
     "Airport Code": "SVO"
   },
   {
-    "Kıta": "Russia",
+    "Continent": "Russia",
     "Country TR": "Rusya",
     "Country EN": "Russia",
     "Country DE": "Russland",
@@ -5035,7 +5035,7 @@
     "Airport Code": "VKO"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Hindistan",
     "Country EN": "India",
     "Country DE": "Indien",
@@ -5054,7 +5054,7 @@
     "Airport Code": "BOM"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Umman",
     "Country EN": "Oman",
     "Country DE": "Oman",
@@ -5073,7 +5073,7 @@
     "Airport Code": "MCT"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Irak",
     "Country EN": "Iraq",
     "Country DE": "Irak",
@@ -5092,7 +5092,7 @@
     "Airport Code": "OSM"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -5111,7 +5111,7 @@
     "Airport Code": "MSR"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Almanya",
     "Country EN": "Germany",
     "Country DE": "Deutschland",
@@ -5130,7 +5130,7 @@
     "Airport Code": "MUC"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Almanya",
     "Country EN": "Germany",
     "Country DE": "Deutschland",
@@ -5149,7 +5149,7 @@
     "Airport Code": "FMO"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Azerbaycan",
     "Country EN": "Azerbaijan",
     "Country DE": "Aserbaidschan",
@@ -5168,7 +5168,7 @@
     "Airport Code": "NAJ"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Kenya",
     "Country EN": "Kenya",
     "Country DE": "Kenia",
@@ -5187,7 +5187,7 @@
     "Airport Code": "NBO"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Moritanya",
     "Country EN": "Mauritania",
     "Country DE": "Mauretanien",
@@ -5206,7 +5206,7 @@
     "Airport Code": "NKC"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "İtalya",
     "Country EN": "Italy",
     "Country DE": "Italien",
@@ -5225,7 +5225,7 @@
     "Airport Code": "NAP"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Irak",
     "Country EN": "Iraq",
     "Country DE": "Irak",
@@ -5244,7 +5244,7 @@
     "Airport Code": "NJF"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Özbekistan",
     "Country EN": "Uzbekistan",
     "Country DE": "Usbekistan",
@@ -5263,7 +5263,7 @@
     "Airport Code": "NVI"
   },
   {
-    "Kıta": "North America",
+    "Continent": "North America",
     "Country TR": "ABD",
     "Country EN": "USA",
     "Country DE": "USA",
@@ -5282,7 +5282,7 @@
     "Airport Code": "EWR"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -5301,7 +5301,7 @@
     "Airport Code": "NAV"
   },
   {
-    "Kıta": "North America",
+    "Continent": "North America",
     "Country TR": "ABD",
     "Country EN": "USA",
     "Country DE": "USA",
@@ -5320,7 +5320,7 @@
     "Airport Code": "JFK"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Nijer",
     "Country EN": "Niger",
     "Country DE": "Niger",
@@ -5339,7 +5339,7 @@
     "Airport Code": "NIM"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Fransa",
     "Country EN": "France",
     "Country DE": "Frankreich",
@@ -5358,7 +5358,7 @@
     "Airport Code": "NCE"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Sırbistan",
     "Country EN": "Serbia",
     "Country DE": "Serbien",
@@ -5377,7 +5377,7 @@
     "Airport Code": "INI"
   },
   {
-    "Kıta": "Russia",
+    "Continent": "Russia",
     "Country TR": "Rusya",
     "Country EN": "Russia",
     "Country DE": "Russland",
@@ -5396,7 +5396,7 @@
     "Airport Code": "OVB"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Almanya",
     "Country EN": "Germany",
     "Country DE": "Deutschland",
@@ -5415,7 +5415,7 @@
     "Airport Code": "NUE"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Ukrayna",
     "Country EN": "Ukrainian",
     "Country DE": "ukrainisch",
@@ -5434,7 +5434,7 @@
     "Airport Code": "ODS"
   },
   {
-    "Kıta": "Russia",
+    "Continent": "Russia",
     "Country TR": "Rusya",
     "Country EN": "Russia",
     "Country DE": "Russland",
@@ -5453,7 +5453,7 @@
     "Airport Code": "OMS"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Cezayir",
     "Country EN": "Algeria",
     "Country DE": "Algerien",
@@ -5472,7 +5472,7 @@
     "Airport Code": "ORN"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -5491,7 +5491,7 @@
     "Airport Code": "OGU"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Japonya",
     "Country EN": "Japan",
     "Country DE": "Japan",
@@ -5510,7 +5510,7 @@
     "Airport Code": "KIX"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Norveç",
     "Country EN": "Norway",
     "Country DE": "Norwegen",
@@ -5529,7 +5529,7 @@
     "Airport Code": "OSL"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Kırgızistan",
     "Country EN": "Kyrgyzstan",
     "Country DE": "Kirgisistan",
@@ -5548,7 +5548,7 @@
     "Airport Code": "OSS"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "İtalya",
     "Country EN": "Italy",
     "Country DE": "Italien",
@@ -5567,7 +5567,7 @@
     "Airport Code": "PMO"
   },
   {
-    "Kıta": "North America",
+    "Continent": "North America",
     "Country TR": "Panama",
     "Country EN": "Panama",
     "Country DE": "Panama",
@@ -5586,7 +5586,7 @@
     "Airport Code": "PTY"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Fransa",
     "Country EN": "France",
     "Country DE": "Frankreich",
@@ -5605,7 +5605,7 @@
     "Airport Code": "CDG"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Fransa",
     "Country EN": "France",
     "Country DE": "Frankreich",
@@ -5624,7 +5624,7 @@
     "Airport Code": "ORY"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Çin",
     "Country EN": "Chinese",
     "Country DE": "chinesisch",
@@ -5643,7 +5643,7 @@
     "Airport Code": "PEK"
   },
   {
-    "Kıta": "Russia",
+    "Continent": "Russia",
     "Country TR": "Rusya",
     "Country EN": "Russia",
     "Country DE": "Russland",
@@ -5662,7 +5662,7 @@
     "Airport Code": "PEE"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "İtalya",
     "Country EN": "Italy",
     "Country DE": "Italien",
@@ -5681,7 +5681,7 @@
     "Airport Code": "PSA"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Karadağ",
     "Country EN": "Montenegro",
     "Country DE": "Montenegro",
@@ -5700,7 +5700,7 @@
     "Airport Code": "TGD"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Kongo Cumhuriyeti",
     "Country EN": "Republic of the Congo",
     "Country DE": "Republik Kongo",
@@ -5719,7 +5719,7 @@
     "Airport Code": "PNR"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Nijerya",
     "Country EN": "Nigeria",
     "Country DE": "Nigeria",
@@ -5738,7 +5738,7 @@
     "Airport Code": "PHC"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Portekiz",
     "Country EN": "Portugal",
     "Country DE": "Portugal",
@@ -5757,7 +5757,7 @@
     "Airport Code": "OPO"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Çekya",
     "Country EN": "czechia",
     "Country DE": "Tschechien",
@@ -5776,7 +5776,7 @@
     "Airport Code": "PRG"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Kosova",
     "Country EN": "Kosovo",
     "Country DE": "Kosovo",
@@ -5795,7 +5795,7 @@
     "Airport Code": "PRN"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Tayland",
     "Country EN": "Thailand",
     "Country DE": "Thailand",
@@ -5814,7 +5814,7 @@
     "Airport Code": "HKT"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Kamboçya",
     "Country EN": "Cambodia",
     "Country DE": "Kambodscha",
@@ -5833,7 +5833,7 @@
     "Airport Code": "PNH"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Letonya",
     "Country EN": "Latvia",
     "Country DE": "Lettland",
@@ -5852,7 +5852,7 @@
     "Airport Code": "RIX"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Suudi Arabistan",
     "Country EN": "Saudi Arabia",
     "Country DE": "Saudi-Arabien",
@@ -5871,7 +5871,7 @@
     "Airport Code": "RUH"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -5890,7 +5890,7 @@
     "Airport Code": "RZV"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "İtalya",
     "Country EN": "Italy",
     "Country DE": "Italien",
@@ -5909,7 +5909,7 @@
     "Airport Code": "FCO"
   },
   {
-    "Kıta": "Russia",
+    "Continent": "Russia",
     "Country TR": "Rusya",
     "Country EN": "Russia",
     "Country DE": "Russland",
@@ -5928,7 +5928,7 @@
     "Airport Code": "ROV"
   },
   {
-    "Kıta": "Russia",
+    "Continent": "Russia",
     "Country TR": "Rusya",
     "Country EN": "Russia",
     "Country DE": "Russland",
@@ -5947,7 +5947,7 @@
     "Airport Code": "RVI"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Hollanda",
     "Country EN": "Holland",
     "Country DE": "Holland",
@@ -5966,7 +5966,7 @@
     "Airport Code": "RTM"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Finlandiya",
     "Country EN": "Finland",
     "Country DE": "Finnland",
@@ -5985,7 +5985,7 @@
     "Airport Code": "RVN"
   },
   {
-    "Kıta": "Russia",
+    "Continent": "Russia",
     "Country TR": "Rusya",
     "Country EN": "Russia",
     "Country DE": "Russland",
@@ -6004,7 +6004,7 @@
     "Airport Code": "KUF"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -6023,7 +6023,7 @@
     "Airport Code": "SZF"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -6042,7 +6042,7 @@
     "Airport Code": "SSX"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Avusturya",
     "Country EN": "Austria",
     "Country DE": "Österreich",
@@ -6061,7 +6061,7 @@
     "Airport Code": "SZG"
   },
   {
-    "Kıta": "North America",
+    "Continent": "North America",
     "Country TR": "ABD",
     "Country EN": "USA",
     "Country DE": "USA",
@@ -6080,7 +6080,7 @@
     "Airport Code": "SFO"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Yemen",
     "Country EN": "Yemen",
     "Country DE": "Jemen",
@@ -6099,7 +6099,7 @@
     "Airport Code": "SAH"
   },
   {
-    "Kıta": "South America",
+    "Continent": "South America",
     "Country TR": "Brezilya",
     "Country EN": "Brazil",
     "Country DE": "Brasilien",
@@ -6118,7 +6118,7 @@
     "Airport Code": "GRU"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Bosna-Hersek",
     "Country EN": "Bosnia and Herzegovina",
     "Country DE": "Bosnien und Herzegowina",
@@ -6137,7 +6137,7 @@
     "Airport Code": "SJJ"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Libya",
     "Country EN": "Libya",
     "Country DE": "Libyen",
@@ -6156,7 +6156,7 @@
     "Airport Code": "SEB"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Filipinler",
     "Country EN": "Philippines",
     "Country DE": "Philippinen",
@@ -6175,7 +6175,7 @@
     "Airport Code": "CEB"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Yunanistan",
     "Country EN": "Greece",
     "Country DE": "Griechenland",
@@ -6194,7 +6194,7 @@
     "Airport Code": "SKG"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Özbekistan",
     "Country EN": "Uzbekistan",
     "Country DE": "Usbekistan",
@@ -6213,7 +6213,7 @@
     "Airport Code": "SKD"
   },
   {
-    "Kıta": "Russia",
+    "Continent": "Russia",
     "Country TR": "Rusya",
     "Country EN": "Russia",
     "Country DE": "Russland",
@@ -6232,7 +6232,7 @@
     "Airport Code": "LED"
   },
   {
-    "Kıta": "North America",
+    "Continent": "North America",
     "Country TR": "ABD",
     "Country EN": "USA",
     "Country DE": "USA",
@@ -6251,7 +6251,7 @@
     "Airport Code": "SEA"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Güney Kore",
     "Country EN": "South Korea",
     "Country DE": "Südkorea",
@@ -6270,7 +6270,7 @@
     "Airport Code": "ICN"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -6289,7 +6289,7 @@
     "Airport Code": "SXZ"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Ukrayna",
     "Country EN": "Ukrainian",
     "Country DE": "ukrainisch",
@@ -6308,7 +6308,7 @@
     "Airport Code": "SIP"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Singapur",
     "Country EN": "Singapore",
     "Country DE": "Singapur",
@@ -6327,7 +6327,7 @@
     "Airport Code": "SIN"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -6346,7 +6346,7 @@
     "Airport Code": "NOP"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -6365,7 +6365,7 @@
     "Airport Code": "VAS"
   },
   {
-    "Kıta": "Russia",
+    "Continent": "Russia",
     "Country TR": "Rusya",
     "Country EN": "Russia",
     "Country DE": "Russland",
@@ -6384,7 +6384,7 @@
     "Airport Code": "AER"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Bulgaristan",
     "Country EN": "Bulgaria",
     "Country DE": "Bulgarien",
@@ -6403,7 +6403,7 @@
     "Airport Code": "SOF"
   },
   {
-    "Kıta": "Russia",
+    "Continent": "Russia",
     "Country TR": "Rusya",
     "Country EN": "Russia",
     "Country DE": "Russland",
@@ -6422,7 +6422,7 @@
     "Airport Code": "STW"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "İsveç",
     "Country EN": "Swedish",
     "Country DE": "Schwedisch",
@@ -6441,7 +6441,7 @@
     "Airport Code": "ARN"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Fransa",
     "Country EN": "France",
     "Country DE": "Frankreich",
@@ -6460,7 +6460,7 @@
     "Airport Code": "SXB"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Almanya",
     "Country EN": "Germany",
     "Country DE": "Deutschland",
@@ -6479,7 +6479,7 @@
     "Airport Code": "STR"
   },
   {
-    "Kıta": "Russia",
+    "Continent": "Russia",
     "Country TR": "Rusya",
     "Country EN": "Russia",
     "Country DE": "Russland",
@@ -6498,7 +6498,7 @@
     "Airport Code": "SGC"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Irak",
     "Country EN": "Iraq",
     "Country DE": "Irak",
@@ -6517,7 +6517,7 @@
     "Airport Code": "ISU"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Suriye",
     "Country EN": "Syria",
     "Country DE": "Syrien",
@@ -6536,7 +6536,7 @@
     "Airport Code": "DAM"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Çin",
     "Country EN": "Chinese",
     "Country DE": "chinesisch",
@@ -6555,7 +6555,7 @@
     "Airport Code": "PVG"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -6574,7 +6574,7 @@
     "Airport Code": "SFQ"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -6593,7 +6593,7 @@
     "Airport Code": "SFQ"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "İrlanda",
     "Country EN": "Ireland",
     "Country DE": "Irland",
@@ -6612,7 +6612,7 @@
     "Airport Code": "SNN"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Birleşik Arap Emirlikleri",
     "Country EN": "United Arab Emirates",
     "Country DE": "Vereinigte Arabische Emirate",
@@ -6631,7 +6631,7 @@
     "Airport Code": "SHJ"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Mısır",
     "Country EN": "Sweetcorn",
     "Country DE": "Zuckermais",
@@ -6650,7 +6650,7 @@
     "Airport Code": "SSH"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Çin",
     "Country EN": "Chinese",
     "Country DE": "chinesisch",
@@ -6669,7 +6669,7 @@
     "Airport Code": "SZX"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -6688,7 +6688,7 @@
     "Airport Code": "NKT"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Çin",
     "Country EN": "Chinese",
     "Country DE": "chinesisch",
@@ -6707,7 +6707,7 @@
     "Airport Code": "XIY"
   },
   {
-    "Kıta": "North America",
+    "Continent": "North America",
     "Country TR": "ABD",
     "Country EN": "USA",
     "Country DE": "USA",
@@ -6726,7 +6726,7 @@
     "Airport Code": "ORD"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "İran",
     "Country EN": "Iranian",
     "Country DE": "iranisch",
@@ -6745,7 +6745,7 @@
     "Airport Code": "SYZ"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "İran",
     "Country EN": "Iranian",
     "Country DE": "iranisch",
@@ -6764,7 +6764,7 @@
     "Airport Code": "IKA"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Suudi Arabistan",
     "Country EN": "Saudi Arabia",
     "Country DE": "Saudi-Arabien",
@@ -6783,7 +6783,7 @@
     "Airport Code": "TIF"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Estonya",
     "Country EN": "Estonia",
     "Country DE": "Estland",
@@ -6802,7 +6802,7 @@
     "Airport Code": "TLL"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Özbekistan",
     "Country EN": "Uzbekistan",
     "Country DE": "Usbekistan",
@@ -6821,7 +6821,7 @@
     "Airport Code": "TAS"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Tayvan",
     "Country EN": "Taiwan",
     "Country DE": "Taiwan",
@@ -6840,7 +6840,7 @@
     "Airport Code": "TPE"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "İran",
     "Country EN": "Iranian",
     "Country DE": "iranisch",
@@ -6859,7 +6859,7 @@
     "Airport Code": "TBZ"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -6878,7 +6878,7 @@
     "Airport Code": "TEQ"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "İsrail",
     "Country EN": "Israel",
     "Country DE": "Israel",
@@ -6897,7 +6897,7 @@
     "Airport Code": "TLV"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Gürcistan",
     "Country EN": "Georgia",
     "Country DE": "Georgia",
@@ -6916,7 +6916,7 @@
     "Airport Code": "TBS"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Cezayir",
     "Country EN": "Algeria",
     "Country DE": "Algerien",
@@ -6935,7 +6935,7 @@
     "Airport Code": "TLM"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Arnavutluk",
     "Country EN": "Albania",
     "Country DE": "Albanien",
@@ -6954,7 +6954,7 @@
     "Airport Code": "TIA"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Karadağ",
     "Country EN": "Montenegro",
     "Country DE": "Montenegro",
@@ -6973,7 +6973,7 @@
     "Airport Code": "TIV"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -6992,7 +6992,7 @@
     "Airport Code": "TJK"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Japonya",
     "Country EN": "Japan",
     "Country DE": "Japan",
@@ -7011,7 +7011,7 @@
     "Airport Code": "HND"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Japonya",
     "Country EN": "Japan",
     "Country DE": "Japan",
@@ -7030,7 +7030,7 @@
     "Airport Code": "NRT"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "İtalya",
     "Country EN": "Italy",
     "Country DE": "Italien",
@@ -7049,7 +7049,7 @@
     "Airport Code": "TRN"
   },
   {
-    "Kıta": "North America",
+    "Continent": "North America",
     "Country TR": "Kanada",
     "Country EN": "Canada",
     "Country DE": "Kanada",
@@ -7068,7 +7068,7 @@
     "Airport Code": "YYZ"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Libya",
     "Country EN": "Libya",
     "Country DE": "Libyen",
@@ -7087,7 +7087,7 @@
     "Airport Code": "MJI"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Libya",
     "Country EN": "Libya",
     "Country DE": "Libyen",
@@ -7106,7 +7106,7 @@
     "Airport Code": "TIP"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -7125,7 +7125,7 @@
     "Airport Code": "TZX"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Fransa",
     "Country EN": "France",
     "Country DE": "Frankreich",
@@ -7144,7 +7144,7 @@
     "Airport Code": "TLS"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Tunus",
     "Country EN": "Tunisian",
     "Country DE": "Tunesisch",
@@ -7163,7 +7163,7 @@
     "Airport Code": "TUN"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Bosna-Hersek",
     "Country EN": "Bosnia and Herzegovina",
     "Country DE": "Bosnien und Herzegowina",
@@ -7182,7 +7182,7 @@
     "Airport Code": "TZL"
   },
   {
-    "Kıta": "Russia",
+    "Continent": "Russia",
     "Country TR": "Rusya",
     "Country EN": "Russia",
     "Country DE": "Russland",
@@ -7201,7 +7201,7 @@
     "Airport Code": "TJM"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Kazakistan",
     "Country EN": "Kazakhstan",
     "Country DE": "Kasachstan",
@@ -7220,7 +7220,7 @@
     "Airport Code": "HSA"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkmenistan",
     "Country EN": "Turkmenistan",
     "Country DE": "Turkmenistan",
@@ -7239,7 +7239,7 @@
     "Airport Code": "CRZ"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkmenistan",
     "Country EN": "Turkmenistan",
     "Country DE": "Turkmenistan",
@@ -7258,7 +7258,7 @@
     "Airport Code": "KRW"
   },
   {
-    "Kıta": "Russia",
+    "Continent": "Russia",
     "Country TR": "Rusya",
     "Country EN": "Russia",
     "Country DE": "Russland",
@@ -7277,7 +7277,7 @@
     "Airport Code": "UFA"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Moğolistan",
     "Country EN": "Mongolia",
     "Country DE": "Mongolei",
@@ -7296,7 +7296,7 @@
     "Airport Code": "UBN"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Moğolistan",
     "Country EN": "Mongolia",
     "Country DE": "Mongolei",
@@ -7315,7 +7315,7 @@
     "Airport Code": "ULN"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "İran",
     "Country EN": "Iranian",
     "Country DE": "iranisch",
@@ -7334,7 +7334,7 @@
     "Airport Code": "OMH"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -7353,7 +7353,7 @@
     "Airport Code": "USQ"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Özbekistan",
     "Country EN": "Uzbekistan",
     "Country DE": "Usbekistan",
@@ -7372,7 +7372,7 @@
     "Airport Code": "UGC"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Makedonya",
     "Country EN": "Macedonia",
     "Country DE": "Mazedonien",
@@ -7391,7 +7391,7 @@
     "Airport Code": "SKP"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Burkina Faso",
     "Country EN": "Burkina Faso",
     "Country DE": "Burkina Faso",
@@ -7410,7 +7410,7 @@
     "Airport Code": "OUA"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "İspanya",
     "Country EN": "Spain",
     "Country DE": "Spanien",
@@ -7429,7 +7429,7 @@
     "Airport Code": "VLC"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -7448,7 +7448,7 @@
     "Airport Code": "VAN"
   },
   {
-    "Kıta": "North America",
+    "Continent": "North America",
     "Country TR": "Kanada",
     "Country EN": "Canada",
     "Country DE": "Kanada",
@@ -7467,7 +7467,7 @@
     "Airport Code": "YVR"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Bulgaristan",
     "Country EN": "Bulgaria",
     "Country DE": "Bulgarien",
@@ -7486,7 +7486,7 @@
     "Airport Code": "VAR"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Polonya",
     "Country EN": "Poland",
     "Country DE": "Polen",
@@ -7505,7 +7505,7 @@
     "Airport Code": "WAW"
   },
   {
-    "Kıta": "North America",
+    "Continent": "North America",
     "Country TR": "ABD",
     "Country EN": "USA",
     "Country DE": "USA",
@@ -7524,7 +7524,7 @@
     "Airport Code": "IAD"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "İtalya",
     "Country EN": "Italy",
     "Country DE": "Italien",
@@ -7543,7 +7543,7 @@
     "Airport Code": "VCE"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Litvanya",
     "Country EN": "Lithuanian",
     "Country DE": "litauisch",
@@ -7562,7 +7562,7 @@
     "Airport Code": "VNO"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Namibya",
     "Country EN": "Namibia",
     "Country DE": "Namibia",
@@ -7581,7 +7581,7 @@
     "Airport Code": "WDH"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Avusturya",
     "Country EN": "Austria",
     "Country DE": "Österreich",
@@ -7600,7 +7600,7 @@
     "Airport Code": "VIE"
   },
   {
-    "Kıta": "Russia",
+    "Continent": "Russia",
     "Country TR": "Rusya",
     "Country EN": "Russia",
     "Country DE": "Russland",
@@ -7619,7 +7619,7 @@
     "Airport Code": "VOZ"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -7638,7 +7638,7 @@
     "Airport Code": "-"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Myanmar (Birmanya)",
     "Country EN": "Myanmar (Burmese)",
     "Country DE": "Myanmar (burmesisch)",
@@ -7657,7 +7657,7 @@
     "Airport Code": "RGN"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Kamerun",
     "Country EN": "Cameroon",
     "Country DE": "Kamerun",
@@ -7676,7 +7676,7 @@
     "Airport Code": "NSI"
   },
   {
-    "Kıta": "Russia",
+    "Continent": "Russia",
     "Country TR": "Rusya",
     "Country EN": "Russia",
     "Country DE": "Russland",
@@ -7695,7 +7695,7 @@
     "Airport Code": "SVX"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Suudi Arabistan",
     "Country EN": "Saudi Arabia",
     "Country DE": "Saudi-Arabien",
@@ -7714,7 +7714,7 @@
     "Airport Code": "YNB"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Hırvatistan",
     "Country EN": "Croatia",
     "Country DE": "Kroatien",
@@ -7733,7 +7733,7 @@
     "Airport Code": "ZAG"
   },
   {
-    "Kıta": "Africa",
+    "Continent": "Africa",
     "Country TR": "Tanzanya",
     "Country EN": "Tanzania",
     "Country DE": "Tansania",
@@ -7752,7 +7752,7 @@
     "Airport Code": "ZNZ"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "Ukrayna",
     "Country EN": "Ukrainian",
     "Country DE": "ukrainisch",
@@ -7771,7 +7771,7 @@
     "Airport Code": "OZH"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "İspanya",
     "Country EN": "Spain",
     "Country DE": "Spanien",
@@ -7790,7 +7790,7 @@
     "Airport Code": "ZAZ"
   },
   {
-    "Kıta": "Asia",
+    "Continent": "Asia",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -7809,7 +7809,7 @@
     "Airport Code": "ONQ"
   },
   {
-    "Kıta": "Europe",
+    "Continent": "Europe",
     "Country TR": "İsviçre",
     "Country EN": "Switzerland",
     "Country DE": "Schweiz",
