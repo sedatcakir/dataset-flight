@@ -76,7 +76,7 @@
     "Airport Code": "ABV"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -91,7 +91,7 @@
     "Airport EN": "Adana Şakirpaşa Airport",
     "Airport DE": "Flughafen Adana Şakirpaşa",
     "Airport RU": "Аэропорт Адана Шакирпаша",
-    "Airport AR": "فلوغافن أضنة شاكر باشا",
+    "Airport AR": "فلوغافين أضنة شاكر باشا",
     "Airport Code": "ADA"
   },
   {
@@ -133,7 +133,7 @@
     "Airport Code": "ADE"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -152,7 +152,7 @@
     "Airport Code": "ADF"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -190,7 +190,7 @@
     "Airport Code": "BQN"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -285,7 +285,7 @@
     "Airport Code": "SCO"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -342,7 +342,7 @@
     "Airport Code": "AKX"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -380,7 +380,7 @@
     "Airport Code": "ALA"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -437,7 +437,7 @@
     "Airport Code": "AMS"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -456,7 +456,7 @@
     "Airport Code": "ESB"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -475,7 +475,7 @@
     "Airport Code": "-"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -646,7 +646,7 @@
     "Airport Code": "ATL"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -659,9 +659,9 @@
     "City AR": "مفكر",
     "Airport TR": "Aydın Çıldır Havalimanı",
     "Airport EN": "Aydin Cildir Airport",
-    "Airport DE": "Flughafen Aydin Çildir",
+    "Airport DE": "Flughafen Aydin-Cildir",
     "Airport RU": "Аэропорт Айдын Чилдир",
-    "Airport AR": "فلوغافين أيدين شيلدير",
+    "Airport AR": "فلوغافين أيدين سيلدير",
     "Airport Code": "CII"
   },
   {
@@ -722,7 +722,7 @@
     "Airport Code": "GYD"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -760,7 +760,7 @@
     "Airport Code": "BKO"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -889,7 +889,7 @@
     "Airport EN": "Basel-Mulhouse-Freiburg Euro Airport",
     "Airport DE": "Euroflughafen Basel-Mulhouse-Freiburg",
     "Airport RU": "Евроаэропорт Базель-Мюлуз-Фрайбург",
-    "Airport AR": "يوروفلوغهافن بازل-ميلوز-فرايبورغ",
+    "Airport AR": "يوروفلوغهافن بازل-ميلوز-فرايبورج",
     "Airport Code": "BSL"
   },
   {
@@ -912,7 +912,7 @@
     "Airport Code": "BSR"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -984,7 +984,7 @@
     "Airport EN": "Belgrade Nikola Tesla Airport",
     "Airport DE": "Flughafen Belgrad Nikola Tesla",
     "Airport RU": "Белградский аэропорт Никола Тесла",
-    "Airport AR": "فلوغافين بلغراد نيكولا تيسلا",
+    "Airport AR": "فلوغافن بلغراد نيكولا تيسلا",
     "Airport Code": "BEG"
   },
   {
@@ -1022,7 +1022,7 @@
     "Airport EN": "Berlin Brandenburg Airport",
     "Airport DE": "Flughafen Berlin Brandenburg",
     "Airport RU": "Аэропорт Берлин-Бранденбург",
-    "Airport AR": "فلوغافين برلين براندنبورغ",
+    "Airport AR": "فلوغافن برلين براندنبورغ",
     "Airport Code": "BER"
   },
   {
@@ -1041,7 +1041,7 @@
     "Airport EN": "Berlin Schönefeld Airport",
     "Airport DE": "Flughafen Berlin-Schönefeld",
     "Airport RU": "Берлин Шенефельд аэропорт",
-    "Airport AR": "فلوغافن برلين-شونفيلد",
+    "Airport AR": "فلوغافين برلين-شونفيلد",
     "Airport Code": "SXF"
   },
   {
@@ -1140,7 +1140,7 @@
     "Airport Code": "BEN"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -1155,7 +1155,7 @@
     "Airport EN": "Bingöl Airport",
     "Airport DE": "Flughafen Bingöl",
     "Airport RU": "Бингёль аэропорт",
-    "Airport AR": "فلوغافن بينجول",
+    "Airport AR": "فلوغافين بينجول",
     "Airport Code": "BGG"
   },
   {
@@ -1174,7 +1174,7 @@
     "Airport EN": "Birmingham Airport",
     "Airport DE": "Flughafen Birmingham",
     "Airport RU": "Аэропорт Бирмингема",
-    "Airport AR": "برمنغهام",
+    "Airport AR": "فلوغافين برمنغهام",
     "Airport Code": "BHX"
   },
   {
@@ -1197,7 +1197,7 @@
     "Airport Code": "FRU"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -1231,7 +1231,7 @@
     "Airport EN": "El Dorado International Airport",
     "Airport DE": "Internationaler Flughafen El Dorado",
     "Airport RU": "Международный аэропорт Эльдорадо",
-    "Airport AR": "الدولي فلوغافين الدورادو",
+    "Airport AR": "الدولي فلوغافين إلدورادو",
     "Airport Code": "BOG"
   },
   {
@@ -1288,7 +1288,7 @@
     "Airport EN": "Logan Airport",
     "Airport DE": "Logan-Flughafen",
     "Airport RU": "Логан аэропорт",
-    "Airport AR": "لوغان فلوغافن",
+    "Airport AR": "لوغان فلوغافين",
     "Airport Code": "BOS"
   },
   {
@@ -1387,14 +1387,14 @@
     "Airport Code": "BHK"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
     "Country RU": "Турция",
     "Country AR": "تركيا",
     "City TR": "Bursa",
-    "City EN": "bursa",
+    "City EN": "Bursa",
     "City DE": "Schleimbeutel",
     "City RU": "Бурса",
     "City AR": "بورصة",
@@ -1406,14 +1406,14 @@
     "Airport Code": "YEI"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
     "Country RU": "Турция",
     "Country AR": "تركيا",
     "City TR": "Bursa",
-    "City EN": "bursa",
+    "City EN": "Bursa",
     "City DE": "Schleimbeutel",
     "City RU": "Бурса",
     "City AR": "بورصة",
@@ -1592,11 +1592,11 @@
     "Airport EN": "Juba Airport",
     "Airport DE": "Flughafen Juba",
     "Airport RU": "Аэропорт Джуба",
-    "Airport AR": "فلوغافين جوبا",
+    "Airport AR": "فلوغافن جوبا",
     "Airport Code": "JUB"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -1729,7 +1729,7 @@
     "Airport Code": "DAC"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -1824,7 +1824,7 @@
     "Airport Code": "DEL"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -1900,7 +1900,7 @@
     "Airport Code": "DNK"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -2147,7 +2147,7 @@
     "Airport Code": "EDI"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -2166,7 +2166,7 @@
     "Airport Code": "EDO"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -2242,7 +2242,7 @@
     "Airport Code": "EBL"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -2261,7 +2261,7 @@
     "Airport Code": "ERC"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -2280,7 +2280,7 @@
     "Airport Code": "ERZ"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -2333,7 +2333,7 @@
     "Airport EN": "Frankfurt Airport",
     "Airport DE": "Frankfurter Flughafen",
     "Airport RU": "Аэропорт Франкфурта",
-    "Airport AR": "فرانكفورتر فلوغافين",
+    "Airport AR": "فرانكفورتر فلوغافن",
     "Airport Code": "FRA"
   },
   {
@@ -2375,7 +2375,7 @@
     "Airport Code": "FNA"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -2485,11 +2485,11 @@
     "Airport EN": "Guangzhou Baiyun International Airport",
     "Airport DE": "Internationaler Flughafen Guangzhou Baiyun",
     "Airport RU": "Международный аэропорт Гуанчжоу Байюнь",
-    "Airport AR": "الدولي فلوغافين قوانغتشو بايون",
+    "Airport AR": "الدولي فلوغافين قوانغتشو باييون",
     "Airport Code": "CAN"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -2541,7 +2541,7 @@
     "Airport TR": "Hamburg Havalimanı",
     "Airport EN": "Hamburg Airport",
     "Airport DE": "Hamburger Flughafen",
-    "Airport RU": "Гамбург аэропорт",
+    "Airport RU": "Аэропорт Гамбурга",
     "Airport AR": "همبرغر فلوغافن",
     "Airport Code": "HAM"
   },
@@ -2622,7 +2622,7 @@
     "Airport Code": "KRT"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -2812,7 +2812,7 @@
     "Airport Code": "IAH"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -2820,9 +2820,9 @@
     "Country AR": "تركيا",
     "City TR": "Iğdır",
     "City EN": "Iğdır",
-    "City DE": "Iğdır",
-    "City RU": "Ыгдыр",
-    "City AR": "إغدير",
+    "City DE": "iğdır",
+    "City RU": "Игдыр",
+    "City AR": "igdır",
     "Airport TR": "Iğdır Şehit Bülent Aydın Havalimanı",
     "Airport EN": "Iğdır Şehit Bülent Aydın Airport",
     "Airport DE": "Flughafen Iğdır Şehit Bülent Aydın",
@@ -2831,7 +2831,7 @@
     "Airport Code": "IGD"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -2888,7 +2888,7 @@
     "Airport Code": "HBE"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -2945,7 +2945,7 @@
     "Airport Code": "ISB"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -2964,7 +2964,7 @@
     "Airport Code": "IST"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -2983,7 +2983,7 @@
     "Airport Code": "ISL"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -2998,7 +2998,7 @@
     "Airport EN": "Sabiha Gökçen Airport",
     "Airport DE": "Flughafen Sabiha Gökçen",
     "Airport RU": "Аэропорт Сабиха Гекчен",
-    "Airport AR": "فلوغافن صبيحة كوكجن",
+    "Airport AR": "فلوغافين صبيحة كوكجن",
     "Airport Code": "SAW"
   },
   {
@@ -3021,7 +3021,7 @@
     "Airport Code": "IFO"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -3040,7 +3040,7 @@
     "Airport Code": "ADB"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -3116,7 +3116,7 @@
     "Airport Code": "CAI"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -3130,7 +3130,7 @@
     "Airport TR": "Kahramanmaraş Havalimanı",
     "Airport EN": "Kahramanmaraş Airport",
     "Airport DE": "Flughafen Kahramanmaraş",
-    "Airport RU": "Аэропорт Кахраманмараш",
+    "Airport RU": "Кахраманмараш аэропорт",
     "Airport AR": "فلوغافن كهرمان مرعش",
     "Airport Code": "KCM"
   },
@@ -3207,7 +3207,7 @@
     "Airport EN": "Kano Airport",
     "Airport DE": "Flughafen Kano",
     "Airport RU": "Кано аэропорт",
-    "Airport AR": "فلوغافين كانوي",
+    "Airport AR": "فلوغافين كانو",
     "Airport Code": "KAN"
   },
   {
@@ -3287,14 +3287,14 @@
     "Airport Code": "FKB"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
     "Country RU": "Турция",
     "Country AR": "تركيا",
     "City TR": "Kars",
-    "City EN": "Kars",
+    "City EN": "kars",
     "City DE": "Kars",
     "City RU": "Карс",
     "City AR": "كارس",
@@ -3302,7 +3302,7 @@
     "Airport EN": "Kars Harakani Airport",
     "Airport DE": "Flughafen Kars Harakani",
     "Airport RU": "Карс Харакани аэропорт",
-    "Airport AR": "فلوغافين كارس هاراكاني",
+    "Airport AR": "فلوغافن كارس هاراكاني",
     "Airport Code": "KSY"
   },
   {
@@ -3325,7 +3325,7 @@
     "Airport Code": "ELQ"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -3401,7 +3401,7 @@
     "Airport Code": "KUN"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -3574,7 +3574,7 @@
   {
     "Continent": "Europe",
     "Country TR": "Moldova",
-    "Country EN": "moldova",
+    "Country EN": "Moldova",
     "Country DE": "Moldawien",
     "Country RU": "Молдова",
     "Country AR": "مولدوفا",
@@ -3617,10 +3617,10 @@
     "Country RU": "Румыния",
     "Country AR": "رومانيا",
     "City TR": "Kluj Napoka (Kaloşvar)",
-    "City EN": "Kluj Napoka (Kalosvar)",
-    "City DE": "Kluj Napoka (Kalosvar)",
-    "City RU": "Клуж-Напока (Калошвар)",
-    "City AR": "كلوج نابوكا (كالوسفار)",
+    "City EN": "Kluj Napoka (Clujvar)",
+    "City DE": "Kluj Napoka (Clujvar)",
+    "City RU": "Клуж-Напока (Клужвар)",
+    "City AR": "كلوج نابوكا (كلوجفار)",
     "Airport TR": "Cluj-Napoca Uluslararası Havalimanı",
     "Airport EN": "Cluj-Napoca International Airport",
     "Airport DE": "Internationaler Flughafen Cluj-Napoca",
@@ -3629,7 +3629,7 @@
     "Airport Code": "CLJ"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -3639,7 +3639,7 @@
     "City EN": "Kocaeli",
     "City DE": "Kocaeli",
     "City RU": "Коджаэли",
-    "City AR": "كوجالي",
+    "City AR": "قوجه ايلي",
     "Airport TR": "Cengiz Topel Havalimanı",
     "Airport EN": "Cengiz Topel Airport",
     "Airport DE": "Flughafen Cengiz Topel",
@@ -3663,7 +3663,7 @@
     "Airport EN": "Bandaranaike Airport",
     "Airport DE": "Flughafen Bandaranaike",
     "Airport RU": "Бандаранаике аэропорт",
-    "Airport AR": "فلوغافين باندارانايكا",
+    "Airport AR": "فلوغافين باندارانايكي",
     "Airport Code": "CMB"
   },
   {
@@ -3724,7 +3724,7 @@
     "Airport Code": "CZL"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -3933,7 +3933,7 @@
     "Airport Code": "KWI"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -3952,7 +3952,7 @@
     "Airport Code": "KZR"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -4062,7 +4062,7 @@
     "Airport EN": "Leipzig/Halle Airport",
     "Airport DE": "Flughafen Leipzig/Halle",
     "Airport RU": "Лейпциг/Галле (аэропорт)",
-    "Airport AR": "فلوغافن لايبزيغ / هاله",
+    "Airport AR": "فلوغافين لايبزيغ / هاله",
     "Airport Code": "LEJ"
   },
   {
@@ -4503,7 +4503,7 @@
     "Airport Code": "AGP"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -4624,7 +4624,7 @@
     "Country RU": "Марокко",
     "Country AR": "المغرب",
     "City TR": "Marakeş",
-    "City EN": "marrakesh",
+    "City EN": "marrakech",
     "City DE": "Marrakesch",
     "City RU": "Марракеш",
     "City AR": "مراكش",
@@ -4636,7 +4636,7 @@
     "Airport Code": "RAK"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -5092,7 +5092,7 @@
     "Airport Code": "OSM"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -5126,7 +5126,7 @@
     "Airport EN": "Munich Airport",
     "Airport DE": "Flughafen München",
     "Airport RU": "Аэропорт Мюнхена",
-    "Airport AR": "فلوغافين ميونيخ",
+    "Airport AR": "فلوغافن ميونيخ",
     "Airport Code": "MUC"
   },
   {
@@ -5282,7 +5282,7 @@
     "Airport Code": "EWR"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -5472,7 +5472,7 @@
     "Airport Code": "ORN"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -5482,7 +5482,7 @@
     "City EN": "Ordu/Giresun",
     "City DE": "Ordu/Giresun",
     "City RU": "Орду/Гиресун",
-    "City AR": "أوردو/جيرسون",
+    "City AR": "أوردو/غيرسون",
     "Airport TR": "Ordu Giresun Havalimanı",
     "Airport EN": "Ordu Giresun Airport",
     "Airport DE": "Flughafen Ordu Giresun",
@@ -5871,7 +5871,7 @@
     "Airport Code": "RUH"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -6004,7 +6004,7 @@
     "Airport Code": "KUF"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -6023,7 +6023,7 @@
     "Airport Code": "SZF"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -6171,7 +6171,7 @@
     "Airport EN": "Mactan–Cebu International Airport",
     "Airport DE": "Internationaler Flughafen Mactan–Cebu",
     "Airport RU": "Международный аэропорт Мактан-Себу",
-    "Airport AR": "إنترناشيونال فلوغافين ماكتان – سيبو",
+    "Airport AR": "إنترناشيونال فلوغافين ماكتان - سيبو",
     "Airport Code": "CEB"
   },
   {
@@ -6247,7 +6247,7 @@
     "Airport EN": "Seattle–Tacoma International Airport",
     "Airport DE": "Internationaler Flughafen Seattle-Tacoma",
     "Airport RU": "Международный аэропорт Сиэтл-Такома",
-    "Airport AR": "إنترناشيونال فلوغافين سياتل تاكوما",
+    "Airport AR": "الدولي فلوغافين سياتل تاكوما",
     "Airport Code": "SEA"
   },
   {
@@ -6266,11 +6266,11 @@
     "Airport EN": "Incheon Airport",
     "Airport DE": "Flughafen Incheon",
     "Airport RU": "Аэропорт Инчхон",
-    "Airport AR": "فلوغافين إنشيون",
+    "Airport AR": "فلوغافين إنتشون",
     "Airport Code": "ICN"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -6327,7 +6327,7 @@
     "Airport Code": "SIN"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -6346,7 +6346,7 @@
     "Airport Code": "NOP"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -6555,7 +6555,7 @@
     "Airport Code": "PVG"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -6574,7 +6574,7 @@
     "Airport Code": "SFQ"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -6664,12 +6664,12 @@
     "Airport TR": "Shenzhen Bao'an Uluslararası Havalimanı",
     "Airport EN": "Shenzhen Bao'an International Airport",
     "Airport DE": "Internationaler Flughafen Shenzhen Bao'an",
-    "Airport RU": "Международный аэропорт Шэньчжэнь Баоань",
+    "Airport RU": "Шэньчжэньский международный аэропорт Баоань",
     "Airport AR": "الدولي Flughafen شنتشن باوان",
     "Airport Code": "SZX"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -6859,7 +6859,7 @@
     "Airport Code": "TBZ"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -6893,7 +6893,7 @@
     "Airport EN": "Ben Gurion Airport",
     "Airport DE": "Flughafen Ben Gurion",
     "Airport RU": "Бен-Гурион аэропорт",
-    "Airport AR": "فلوغافين بن غوريون",
+    "Airport AR": "فلوغافن بن غوريون",
     "Airport Code": "TLV"
   },
   {
@@ -6973,7 +6973,7 @@
     "Airport Code": "TIV"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -7106,7 +7106,7 @@
     "Airport Code": "TIP"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -7192,7 +7192,7 @@
     "City EN": "Divisional",
     "City DE": "Divisional",
     "City RU": "Дивизионный",
-    "City AR": "تقسيمي",
+    "City AR": "تقسيمية",
     "Airport TR": "Roşçino Uluslararası Havalimanı",
     "Airport EN": "Roshchino International Airport",
     "Airport DE": "Internationaler Flughafen Roschtschino",
@@ -7334,7 +7334,7 @@
     "Airport Code": "OMH"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -7348,7 +7348,7 @@
     "Airport TR": "Uşak Havalimanı",
     "Airport EN": "Uşak Airport",
     "Airport DE": "Flughafen Uşak",
-    "Airport RU": "Аэропорт Ушак",
+    "Airport RU": "Ушак аэропорт",
     "Airport AR": "فلوغافين أوشاك",
     "Airport Code": "USQ"
   },
@@ -7429,7 +7429,7 @@
     "Airport Code": "VLC"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -7539,7 +7539,7 @@
     "Airport EN": "Venice Marco Polo Airport",
     "Airport DE": "Flughafen Venedig Marco Polo",
     "Airport RU": "Аэропорт Венеции Марко Поло",
-    "Airport AR": "فلوغافين البندقية ماركو بولو",
+    "Airport AR": "فلوغافن البندقية ماركو بولو",
     "Airport Code": "VCE"
   },
   {
@@ -7619,7 +7619,7 @@
     "Airport Code": "VOZ"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
@@ -7761,7 +7761,7 @@
     "City TR": "Zaporijya (Sarı Kamış)",
     "City EN": "Zaporizhia (Yellow Reed)",
     "City DE": "Saporischschja (Gelbes Schilfrohr)",
-    "City RU": "Запорожье (Жёлтый камыш)",
+    "City RU": "Запорожье (Желтый камыш)",
     "City AR": "زابوريزهيا (القصب الأصفر)",
     "Airport TR": "Zaporijya Uluslararası Havalimanı",
     "Airport EN": "Zaporizhia International Airport",
@@ -7790,7 +7790,7 @@
     "Airport Code": "ZAZ"
   },
   {
-    "Continent": "Asia",
+    "Continent": "Europe",
     "Country TR": "Türkiye",
     "Country EN": "Türkiye",
     "Country DE": "Türkei",
